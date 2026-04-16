@@ -1,10 +1,1 @@
-Plan_Review_Cases.csv
-          ↓
-        ETL
-          ↓
-   Data Warehouse
-   ├── fact_application
-   ├── dim_applicant
-   ├── dim_location
-   ├── dim_project
-   ├── dim_date
+
